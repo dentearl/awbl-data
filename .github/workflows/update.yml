@@ -1,0 +1,42 @@
+name: Update AWBL Schedule & Results
+
+on:
+  schedule:
+    # 09:00 UTC = 17:00 TST (captures day games ending ~15:30-16:30 TST)
+    - cron: '0 9 * * *'
+    # 14:45 UTC = 22:45 TST (captures night games ending ~21:00-22:00 TST)
+    - cron: '45 14 * * *'
+    # 16:30 UTC = 00:30 TST (late-night sweep for extra-inning games or delays)
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-awbl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run AWBL Scraper
+        run: node scripts/scrapeAWBL.js --season 2026
+
+      - name: Commit and push if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet data/; then
+            git add data/
+            git commit -m "Update AWBL 2026 season data [skip ci]"
+            git push
+            echo "Successfully committed and pushed updated AWBL data."
+          else
+            echo "No data changes detected. Everything is up to date."
+          fi

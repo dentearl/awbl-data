@@ -1,0 +1,23 @@
+{
+  "name": "awbl-data",
+  "version": "1.0.0",
+  "description": "Automated schedule, standings, and results pipeline for Asia Winter Baseball League (AWBL / 亞洲冬季棒球聯盟)",
+  "type": "module",
+  "main": "scripts/scrapeAWBL.js",
+  "scripts": {
+    "scrape": "node scripts/scrapeAWBL.js",
+    "scrape:2024": "node scripts/scrapeAWBL.js --season 2024",
+    "scrape:2026": "node scripts/scrapeAWBL.js --season 2026"
+  },
+  "keywords": [
+    "awbl",
+    "cpbl",
+    "asia-winter-baseball-league",
+    "baseball",
+    "taiwan",
+    "schedule",
+    "data"
+  ],
+  "author": "Dent Earl",
+  "license": "MIT"
+}

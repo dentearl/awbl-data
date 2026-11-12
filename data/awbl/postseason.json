@@ -1,0 +1,198 @@
+{
+  "2024": {
+    "year": 2024,
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8007,
+      "championId": 8007,
+      "teamTop": {
+        "id": 8007,
+        "name": "NPB White",
+        "abbrev": "NPBW",
+        "score": 3,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      }
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8002,
+      "teamTop": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "score": 5,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "score": 9,
+        "wins": 1,
+        "isWinner": true
+      }
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": null,
+      "teamTop": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "score": 3,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8007,
+        "name": "NPB White",
+        "abbrev": "NPBW",
+        "score": 3,
+        "wins": 0,
+        "isWinner": false
+      }
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "teamTop": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 9,
+        "wins": 1,
+        "isWinner": true
+      }
+    }
+  },
+  "2026": {
+    "year": 2026,
+    "isComplete": false,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": false,
+      "winnerId": null,
+      "championId": null,
+      "teamTop": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "wins": 0,
+        "isWinner": false
+      }
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": false,
+      "winnerId": null,
+      "teamTop": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8006,
+        "name": "CTUSF University All-Stars",
+        "abbrev": "CTUSF",
+        "wins": 0,
+        "isWinner": false
+      }
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": false,
+      "winnerId": null,
+      "teamTop": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8006,
+        "name": "CTUSF University All-Stars",
+        "abbrev": "CTUSF",
+        "wins": 0,
+        "isWinner": false
+      }
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "isStarted": true,
+      "isComplete": false,
+      "winnerId": null,
+      "teamTop": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "wins": 0,
+        "isWinner": false
+      }
+    }
+  }
+}
