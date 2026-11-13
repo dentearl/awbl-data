@@ -1,0 +1,2066 @@
+[
+  {
+    "gamePk": "2013112600001",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-26T12:05:00+08:00",
+    "officialDate": "2013-11-26",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112600002",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-26T18:09:00+08:00",
+    "officialDate": "2013-11-26",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112700003",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-27T12:07:00+08:00",
+    "officialDate": "2013-11-27",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 12,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112700004",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-27T18:05:00+08:00",
+    "officialDate": "2013-11-27",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112800005",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-28T12:05:00+08:00",
+    "officialDate": "2013-11-28",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112800006",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-28T18:06:00+08:00",
+    "officialDate": "2013-11-28",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112900007",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-29T12:06:00+08:00",
+    "officialDate": "2013-11-29",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013112900008",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-29T18:07:00+08:00",
+    "officialDate": "2013-11-29",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 15,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013113000009",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-30T12:05:00+08:00",
+    "officialDate": "2013-11-30",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013113000010",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-11-30T18:05:00+08:00",
+    "officialDate": "2013-11-30",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 13,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120100011",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-01T12:06:00+08:00",
+    "officialDate": "2013-12-01",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120100012",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-01T18:05:00+08:00",
+    "officialDate": "2013-12-01",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120300013",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-03T12:05:00+08:00",
+    "officialDate": "2013-12-03",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120300014",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-03T18:04:00+08:00",
+    "officialDate": "2013-12-03",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120400015",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-04T12:06:00+08:00",
+    "officialDate": "2013-12-04",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 16,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120400016",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-04T18:05:00+08:00",
+    "officialDate": "2013-12-04",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120500017",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-05T12:06:00+08:00",
+    "officialDate": "2013-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120500018",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-05T18:06:00+08:00",
+    "officialDate": "2013-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120600019",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-06T12:06:00+08:00",
+    "officialDate": "2013-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120600020",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-06T18:05:00+08:00",
+    "officialDate": "2013-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120700021",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-07T12:06:00+08:00",
+    "officialDate": "2013-12-07",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120700022",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-07T18:05:00+08:00",
+    "officialDate": "2013-12-07",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120800023",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-08T12:06:00+08:00",
+    "officialDate": "2013-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013120800024",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-08T18:05:00+08:00",
+    "officialDate": "2013-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 16,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121000025",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-10T12:07:00+08:00",
+    "officialDate": "2013-12-10",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121000026",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-10T18:05:00+08:00",
+    "officialDate": "2013-12-10",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2013121100027",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-11T12:05:00+08:00",
+    "officialDate": "2013-12-11",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121100028",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-11T18:07:00+08:00",
+    "officialDate": "2013-12-11",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121200029",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-12T12:06:00+08:00",
+    "officialDate": "2013-12-12",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121200030",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-12T18:07:00+08:00",
+    "officialDate": "2013-12-12",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121300031",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-13T12:07:00+08:00",
+    "officialDate": "2013-12-13",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121300032",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-13T18:06:00+08:00",
+    "officialDate": "2013-12-13",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121400033",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-14T12:06:00+08:00",
+    "officialDate": "2013-12-14",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121400034",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-14T18:07:00+08:00",
+    "officialDate": "2013-12-14",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121500035",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-15T12:00:00+08:00",
+    "officialDate": "2013-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121500036",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-15T18:06:00+08:00",
+    "officialDate": "2013-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121600035",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-16T18:05:00+08:00",
+    "officialDate": "2013-12-16",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121700037",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-17T12:00:00+08:00",
+    "officialDate": "2013-12-17",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121700038",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-17T18:00:00+08:00",
+    "officialDate": "2013-12-17",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121800039",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-18T12:04:00+08:00",
+    "officialDate": "2013-12-18",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121800040",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-18T18:06:00+08:00",
+    "officialDate": "2013-12-18",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 18,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121900041",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-19T12:05:00+08:00",
+    "officialDate": "2013-12-19",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013121900042",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-19T18:06:00+08:00",
+    "officialDate": "2013-12-19",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 10,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013122000037",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-20T18:05:00+08:00",
+    "officialDate": "2013-12-20",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2013122000038",
+    "season": 2013,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2013-12-20T12:05:00+08:00",
+    "officialDate": "2013-12-20",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  }
+]

@@ -1,0 +1,2106 @@
+[
+  {
+    "gamePk": "2012112400001",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-24T12:04:00+08:00",
+    "officialDate": "2012-11-24",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112400002",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-24T18:02:00+08:00",
+    "officialDate": "2012-11-24",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112500003",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-25T12:03:00+08:00",
+    "officialDate": "2012-11-25",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112500004",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-25T18:01:00+08:00",
+    "officialDate": "2012-11-25",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112700005",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-27T12:08:00+08:00",
+    "officialDate": "2012-11-27",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112700006",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-27T18:04:00+08:00",
+    "officialDate": "2012-11-27",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 10,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112800007",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-28T12:03:00+08:00",
+    "officialDate": "2012-11-28",
+    "venue": {
+      "id": 8906,
+      "name": "Chengcing Lake Baseball Stadium",
+      "nativeName": "澄清湖棒球場",
+      "city": "Kaohsiung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012112800008",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-28T18:01:00+08:00",
+    "officialDate": "2012-11-28",
+    "venue": {
+      "id": 8906,
+      "name": "Chengcing Lake Baseball Stadium",
+      "nativeName": "澄清湖棒球場",
+      "city": "Kaohsiung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012113000009",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-30T12:01:00+08:00",
+    "officialDate": "2012-11-30",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012113000010",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-11-30T18:02:00+08:00",
+    "officialDate": "2012-11-30",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120100011",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-01T12:03:00+08:00",
+    "officialDate": "2012-12-01",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120100012",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-01T18:03:00+08:00",
+    "officialDate": "2012-12-01",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120200013",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-02T12:00:00+08:00",
+    "officialDate": "2012-12-02",
+    "venue": {
+      "id": 8907,
+      "name": "Rakuten Taoyuan Baseball Stadium",
+      "nativeName": "樂天桃園棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120200014",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-02T18:00:00+08:00",
+    "officialDate": "2012-12-02",
+    "venue": {
+      "id": 8907,
+      "name": "Rakuten Taoyuan Baseball Stadium",
+      "nativeName": "樂天桃園棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120400015",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-04T12:00:00+08:00",
+    "officialDate": "2012-12-04",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120400016",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-04T18:00:00+08:00",
+    "officialDate": "2012-12-04",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120500017",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-05T12:00:00+08:00",
+    "officialDate": "2012-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120500018",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-05T18:00:00+08:00",
+    "officialDate": "2012-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120600019",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-06T12:00:00+08:00",
+    "officialDate": "2012-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120600020",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-06T18:00:00+08:00",
+    "officialDate": "2012-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120700021",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-07T12:02:00+08:00",
+    "officialDate": "2012-12-07",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 12,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120700022",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-07T18:04:00+08:00",
+    "officialDate": "2012-12-07",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120800023",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-08T12:03:00+08:00",
+    "officialDate": "2012-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120800024",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-08T18:00:00+08:00",
+    "officialDate": "2012-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120900025",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-09T12:03:00+08:00",
+    "officialDate": "2012-12-09",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012120900026",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-09T18:02:00+08:00",
+    "officialDate": "2012-12-09",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121100027",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-11T12:00:00+08:00",
+    "officialDate": "2012-12-11",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121100028",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-11T18:03:00+08:00",
+    "officialDate": "2012-12-11",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 13,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121200029",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-12T12:02:00+08:00",
+    "officialDate": "2012-12-12",
+    "venue": {
+      "id": 8906,
+      "name": "Chengcing Lake Baseball Stadium",
+      "nativeName": "澄清湖棒球場",
+      "city": "Kaohsiung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121200030",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-12T18:01:00+08:00",
+    "officialDate": "2012-12-12",
+    "venue": {
+      "id": 8906,
+      "name": "Chengcing Lake Baseball Stadium",
+      "nativeName": "澄清湖棒球場",
+      "city": "Kaohsiung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121300013",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-13T12:00:00+08:00",
+    "officialDate": "2012-12-13",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121300014",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-13T18:00:00+08:00",
+    "officialDate": "2012-12-13",
+    "venue": {
+      "id": 8907,
+      "name": "Taoyuan International Baseball Stadium",
+      "nativeName": "桃園國際棒球場",
+      "city": "Taoyuan, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121400031",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-14T12:00:00+08:00",
+    "officialDate": "2012-12-14",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121400032",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-14T18:00:00+08:00",
+    "officialDate": "2012-12-14",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 10,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121500033",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-15T12:00:00+08:00",
+    "officialDate": "2012-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121500034",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-15T18:00:00+08:00",
+    "officialDate": "2012-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121600035",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-16T12:00:00+08:00",
+    "officialDate": "2012-12-16",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121600036",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-16T18:00:00+08:00",
+    "officialDate": "2012-12-16",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 11,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121800037",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-18T12:03:00+08:00",
+    "officialDate": "2012-12-18",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121800038",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-18T18:00:00+08:00",
+    "officialDate": "2012-12-18",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121900039",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-19T12:00:00+08:00",
+    "officialDate": "2012-12-19",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012121900040",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-19T18:02:00+08:00",
+    "officialDate": "2012-12-19",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012122000041",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-20T12:01:00+08:00",
+    "officialDate": "2012-12-20",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012122000042",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-20T18:01:00+08:00",
+    "officialDate": "2012-12-20",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012122100017",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-21T11:58:00+08:00",
+    "officialDate": "2012-12-21",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 10,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8017,
+          "name": "Dominican Republic",
+          "abbrev": "DOM",
+          "nativeName": "多明尼加",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2012122100018",
+    "season": 2012,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2012-12-21T18:00:00+08:00",
+    "officialDate": "2012-12-21",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8018,
+          "name": "Chinese Taipei Red",
+          "abbrev": "CTR",
+          "nativeName": "中華紅",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8019,
+          "name": "Chinese Taipei White",
+          "abbrev": "CTW",
+          "nativeName": "中華白",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  }
+]

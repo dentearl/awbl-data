@@ -1,17 +1,1143 @@
 {
-  "2024": {
-    "year": 2024,
+  "2012": {
+    "year": 2012,
+    "era": "awbl_championship",
     "isComplete": true,
     "isStarted": true,
     "championship": {
       "id": "awbl-champ",
       "name": "AWBL Championship",
       "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8003,
+      "championId": 8003,
+      "teamTop": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "score": 5,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8019,
+        "name": "Chinese Taipei White",
+        "abbrev": "CTW",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2012-12-22",
+          "away": "Chinese Taipei White",
+          "home": "NPB Combined",
+          "awayScore": 2,
+          "homeScore": 5,
+          "winnerId": 8003,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": null,
+    "semifinal1": null,
+    "semifinal2": null
+  },
+  "2013": {
+    "year": 2013,
+    "era": "awbl_championship",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8005,
+      "championId": 8005,
+      "teamTop": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 6,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2013-12-21",
+          "away": "KBO Combined",
+          "home": "NPB Combined",
+          "awayScore": 6,
+          "homeScore": 2,
+          "winnerId": 8005,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": null,
+    "semifinal1": null,
+    "semifinal2": null
+  },
+  "2015": {
+    "year": 2015,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8010,
+      "championId": 8010,
+      "teamTop": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8010,
+        "name": "Chinese Taipei Training Team",
+        "abbrev": "CT",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2015-12-20",
+          "away": "Chinese Taipei Training Team",
+          "home": "NPB Combined",
+          "awayScore": 4,
+          "homeScore": 2,
+          "winnerId": 8010,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8005,
+      "teamTop": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 9,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 8,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2015-12-20",
+          "away": "CPBL Combined",
+          "home": "KBO Combined",
+          "awayScore": 8,
+          "homeScore": 9,
+          "winnerId": 8005,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "2-Game Series",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8010,
+      "teamTop": {
+        "id": 8010,
+        "name": "Chinese Taipei Training Team",
+        "abbrev": "CT",
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2015-12-18",
+          "away": "KBO Combined",
+          "home": "Chinese Taipei Training Team",
+          "awayScore": 6,
+          "homeScore": 6,
+          "winnerId": null,
+          "isTie": true,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        },
+        {
+          "game": 2,
+          "date": "2015-12-19",
+          "away": "KBO Combined",
+          "home": "Chinese Taipei Training Team",
+          "awayScore": 5,
+          "homeScore": 7,
+          "winnerId": 8010,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "2-Game Series",
+      "winsNeeded": 2,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8003,
+      "teamTop": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "wins": 2,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2015-12-18",
+          "away": "CPBL Combined",
+          "home": "NPB Combined",
+          "awayScore": 0,
+          "homeScore": 7,
+          "winnerId": 8003,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        },
+        {
+          "game": 2,
+          "date": "2015-12-19",
+          "away": "CPBL Combined",
+          "home": "NPB Combined",
+          "awayScore": 5,
+          "homeScore": 11,
+          "winnerId": 8003,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2016": {
+    "year": 2016,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8014,
+      "championId": 8014,
+      "teamTop": {
+        "id": 8014,
+        "name": "NPB West",
+        "abbrev": "NPW",
+        "score": 6,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2016-12-18",
+          "away": "NPB East",
+          "home": "NPB West",
+          "awayScore": 1,
+          "homeScore": 6,
+          "winnerId": 8014,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8010,
+      "teamTop": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 6,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8010,
+        "name": "Chinese Taipei Training Team",
+        "abbrev": "CT",
+        "score": 7,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2016-12-18",
+          "away": "Chinese Taipei Training Team",
+          "home": "KBO Combined",
+          "awayScore": 7,
+          "homeScore": 6,
+          "winnerId": 8010,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8013,
+      "teamTop": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2016-12-17",
+          "away": "NPB East",
+          "home": "KBO Combined",
+          "awayScore": 4,
+          "homeScore": 1,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8014,
+      "teamTop": {
+        "id": 8014,
+        "name": "NPB West",
+        "abbrev": "NPW",
+        "score": 13,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8010,
+        "name": "Chinese Taipei Training Team",
+        "abbrev": "CT",
+        "score": 10,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2016-12-17",
+          "away": "Chinese Taipei Training Team",
+          "home": "NPB West",
+          "awayScore": 10,
+          "homeScore": 13,
+          "winnerId": 8014,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2017": {
+    "year": 2017,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8013,
+      "championId": 8013,
+      "teamTop": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2017-12-17",
+          "away": "NPB East",
+          "home": "KBO Combined",
+          "awayScore": 4,
+          "homeScore": 1,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 3,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2017-12-17",
+          "away": "CPBL Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 3,
+          "homeScore": 4,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8005,
+      "teamTop": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 6,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2017-12-16",
+          "away": "KBO Combined",
+          "home": "CPBL Combined",
+          "awayScore": 6,
+          "homeScore": 2,
+          "winnerId": 8005,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8013,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 0,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "score": 2,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2017-12-16",
+          "away": "NPB East",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 2,
+          "homeScore": 0,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2018": {
+    "year": 2018,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8013,
+      "championId": 8013,
+      "teamTop": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "score": 1,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 0,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2018-12-16",
+          "away": "CPBL Combined",
+          "home": "NPB East",
+          "awayScore": 0,
+          "homeScore": 1,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 8,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "score": 3,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2018-12-16",
+          "away": "KBO Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 3,
+          "homeScore": 8,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "2-Game Series",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8011,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2018-12-14",
+          "away": "CPBL Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 6,
+          "homeScore": 5,
+          "winnerId": 8011,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        },
+        {
+          "game": 2,
+          "date": "2018-12-15",
+          "away": "CPBL Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 3,
+          "homeScore": 3,
+          "winnerId": null,
+          "isTie": true,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "2-Game Series",
+      "winsNeeded": 2,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8013,
+      "teamTop": {
+        "id": 8013,
+        "name": "NPB East",
+        "abbrev": "NPE",
+        "wins": 2,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8005,
+        "name": "KBO Combined",
+        "abbrev": "KBO",
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2018-12-14",
+          "away": "KBO Combined",
+          "home": "NPB East",
+          "awayScore": 2,
+          "homeScore": 11,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        },
+        {
+          "game": 2,
+          "date": "2018-12-15",
+          "away": "KBO Combined",
+          "home": "NPB East",
+          "awayScore": 5,
+          "homeScore": 11,
+          "winnerId": 8013,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2019": {
+    "year": 2019,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "championId": 8004,
+      "teamTop": {
+        "id": 8008,
+        "name": "NPB Red",
+        "abbrev": "NPBR",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2019-12-15",
+          "away": "Japan Amateur Baseball Association",
+          "home": "NPB Red",
+          "awayScore": 4,
+          "homeScore": 2,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8012,
+      "teamTop": {
+        "id": 8012,
+        "name": "Wei Chuan Dragons",
+        "abbrev": "WCD",
+        "score": 7,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 0,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2019-12-15",
+          "away": "CPBL Combined",
+          "home": "Wei Chuan Dragons",
+          "awayScore": 0,
+          "homeScore": 7,
+          "winnerId": 8012,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8008,
+      "teamTop": {
+        "id": 8008,
+        "name": "NPB Red",
+        "abbrev": "NPBR",
+        "score": 7,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2019-12-14",
+          "away": "CPBL Combined",
+          "home": "NPB Red",
+          "awayScore": 2,
+          "homeScore": 7,
+          "winnerId": 8008,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8012,
+        "name": "Wei Chuan Dragons",
+        "abbrev": "WCD",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2019-12-14",
+          "away": "Wei Chuan Dragons",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 2,
+          "homeScore": 4,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2023": {
+    "year": 2023,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8009,
+      "championId": 8009,
+      "teamTop": {
+        "id": 8009,
+        "name": "TSG Hawks",
+        "abbrev": "TSG",
+        "score": 7,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8008,
+        "name": "NPB Red",
+        "abbrev": "NPBR",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2023-12-17",
+          "away": "NPB Red",
+          "home": "TSG Hawks",
+          "awayScore": 1,
+          "homeScore": 7,
+          "winnerId": 8009,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8011,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 4,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2023-12-17",
+          "away": "CPBL Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 4,
+          "homeScore": 2,
+          "winnerId": 8011,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8009,
+      "teamTop": {
+        "id": 8009,
+        "name": "TSG Hawks",
+        "abbrev": "TSG",
+        "score": 5,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8011,
+        "name": "CPBL Combined",
+        "abbrev": "CPBL",
+        "score": 5,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2023-12-16",
+          "away": "CPBL Combined",
+          "home": "TSG Hawks",
+          "awayScore": 5,
+          "homeScore": 5,
+          "winnerId": null,
+          "isTie": true,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8008,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8008,
+        "name": "NPB Red",
+        "abbrev": "NPBR",
+        "score": 2,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2023-12-16",
+          "away": "NPB Red",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 2,
+          "homeScore": 1,
+          "winnerId": 8008,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Douliu Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "year": 2024,
+    "era": "awbl_semifinals",
+    "isComplete": true,
+    "isStarted": true,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "winsNeeded": 1,
       "isStarted": true,
       "isComplete": true,
       "winnerId": 8007,
       "championId": 8007,
       "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 1,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
         "id": 8007,
         "name": "NPB White",
         "abbrev": "NPBW",
@@ -19,23 +1145,38 @@
         "wins": 1,
         "isWinner": true
       },
-      "teamBottom": {
-        "id": 8004,
-        "name": "Japan Amateur Baseball Association",
-        "abbrev": "JABA",
-        "score": 1,
-        "wins": 0,
-        "isWinner": false
-      }
+      "games": [
+        {
+          "game": 1,
+          "date": "2024-12-15",
+          "away": "NPB White",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 3,
+          "homeScore": 1,
+          "winnerId": 8007,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
     },
     "thirdPlace": {
       "id": "awbl-third",
       "name": "3rd Place Game",
       "format": "Single Game",
+      "winsNeeded": 1,
       "isStarted": true,
       "isComplete": true,
       "winnerId": 8002,
       "teamTop": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "score": 9,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
         "id": 8001,
         "name": "Taiwan Ocean",
         "abbrev": "TWO",
@@ -43,23 +1184,38 @@
         "wins": 0,
         "isWinner": false
       },
-      "teamBottom": {
-        "id": 8002,
-        "name": "Taiwan Mountain",
-        "abbrev": "TWM",
-        "score": 9,
-        "wins": 1,
-        "isWinner": true
-      }
+      "games": [
+        {
+          "game": 1,
+          "date": "2024-12-15",
+          "away": "Taiwan Ocean",
+          "home": "Taiwan Mountain",
+          "awayScore": 5,
+          "homeScore": 9,
+          "winnerId": 8002,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
     },
     "semifinal1": {
       "id": "awbl-semi1",
       "name": "Semifinal 1",
       "format": "Single Game",
+      "winsNeeded": 1,
       "isStarted": true,
       "isComplete": true,
-      "winnerId": null,
+      "winnerId": 8007,
       "teamTop": {
+        "id": 8007,
+        "name": "NPB White",
+        "abbrev": "NPBW",
+        "score": 3,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
         "id": 8002,
         "name": "Taiwan Mountain",
         "abbrev": "TWM",
@@ -67,23 +1223,38 @@
         "wins": 0,
         "isWinner": false
       },
-      "teamBottom": {
-        "id": 8007,
-        "name": "NPB White",
-        "abbrev": "NPBW",
-        "score": 3,
-        "wins": 0,
-        "isWinner": false
-      }
+      "games": [
+        {
+          "game": 1,
+          "date": "2024-12-14",
+          "away": "Taiwan Mountain",
+          "home": "NPB White",
+          "awayScore": 3,
+          "homeScore": 3,
+          "winnerId": null,
+          "isTie": true,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
     },
     "semifinal2": {
       "id": "awbl-semi2",
       "name": "Semifinal 2",
       "format": "Single Game",
+      "winsNeeded": 1,
       "isStarted": true,
       "isComplete": true,
       "winnerId": 8004,
       "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 9,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
         "id": 8001,
         "name": "Taiwan Ocean",
         "abbrev": "TWO",
@@ -91,108 +1262,217 @@
         "wins": 0,
         "isWinner": false
       },
-      "teamBottom": {
-        "id": 8004,
-        "name": "Japan Amateur Baseball Association",
-        "abbrev": "JABA",
-        "score": 9,
-        "wins": 1,
-        "isWinner": true
-      }
+      "games": [
+        {
+          "game": 1,
+          "date": "2024-12-14",
+          "away": "Taiwan Ocean",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 1,
+          "homeScore": 9,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Taichung Intercontinental Baseball Stadium"
+        }
+      ]
     }
   },
-  "2026": {
-    "year": 2026,
-    "isComplete": false,
+  "2025": {
+    "year": 2025,
+    "era": "awbl_semifinals",
+    "isComplete": true,
     "isStarted": true,
     "championship": {
       "id": "awbl-champ",
       "name": "AWBL Championship",
       "format": "Single Game",
+      "winsNeeded": 1,
       "isStarted": true,
-      "isComplete": false,
-      "winnerId": null,
-      "championId": null,
+      "isComplete": true,
+      "winnerId": 8004,
+      "championId": 8004,
       "teamTop": {
-        "id": 8001,
-        "name": "Taiwan Ocean",
-        "abbrev": "TWO",
-        "wins": 0,
-        "isWinner": false
-      },
-      "teamBottom": {
         "id": 8004,
         "name": "Japan Amateur Baseball Association",
         "abbrev": "JABA",
-        "wins": 0,
-        "isWinner": false
-      }
-    },
-    "thirdPlace": {
-      "id": "awbl-third",
-      "name": "3rd Place Game",
-      "format": "Single Game",
-      "isStarted": true,
-      "isComplete": false,
-      "winnerId": null,
-      "teamTop": {
-        "id": 8002,
-        "name": "Taiwan Mountain",
-        "abbrev": "TWM",
-        "wins": 0,
-        "isWinner": false
-      },
-      "teamBottom": {
-        "id": 8006,
-        "name": "CTUSF University All-Stars",
-        "abbrev": "CTUSF",
-        "wins": 0,
-        "isWinner": false
-      }
-    },
-    "semifinal1": {
-      "id": "awbl-semi1",
-      "name": "Semifinal 1",
-      "format": "Single Game",
-      "isStarted": true,
-      "isComplete": false,
-      "winnerId": null,
-      "teamTop": {
-        "id": 8001,
-        "name": "Taiwan Ocean",
-        "abbrev": "TWO",
-        "wins": 0,
-        "isWinner": false
-      },
-      "teamBottom": {
-        "id": 8006,
-        "name": "CTUSF University All-Stars",
-        "abbrev": "CTUSF",
-        "wins": 0,
-        "isWinner": false
-      }
-    },
-    "semifinal2": {
-      "id": "awbl-semi2",
-      "name": "Semifinal 2",
-      "format": "Single Game",
-      "isStarted": true,
-      "isComplete": false,
-      "winnerId": null,
-      "teamTop": {
-        "id": 8002,
-        "name": "Taiwan Mountain",
-        "abbrev": "TWM",
-        "wins": 0,
-        "isWinner": false
+        "score": 5,
+        "wins": 1,
+        "isWinner": true
       },
       "teamBottom": {
         "id": 8003,
         "name": "NPB Combined",
         "abbrev": "NPB",
+        "score": 2,
         "wins": 0,
         "isWinner": false
-      }
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2025-12-07",
+          "away": "NPB Combined",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 2,
+          "homeScore": 5,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Chiayi City Baseball Stadium"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8002,
+      "teamTop": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "score": 4,
+        "wins": 0,
+        "isWinner": false
+      },
+      "teamBottom": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "score": 5,
+        "wins": 1,
+        "isWinner": true
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2025-12-07",
+          "away": "Taiwan Mountain",
+          "home": "Taiwan Ocean",
+          "awayScore": 5,
+          "homeScore": 4,
+          "winnerId": 8002,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Chiayi City Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8003,
+      "teamTop": {
+        "id": 8003,
+        "name": "NPB Combined",
+        "abbrev": "NPB",
+        "score": 5,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8001,
+        "name": "Taiwan Ocean",
+        "abbrev": "TWO",
+        "score": 2,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2025-12-06",
+          "away": "Taiwan Ocean",
+          "home": "NPB Combined",
+          "awayScore": 2,
+          "homeScore": 5,
+          "winnerId": 8003,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Chengcing Lake Baseball Stadium"
+        }
+      ]
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "winsNeeded": 1,
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 8004,
+      "teamTop": {
+        "id": 8004,
+        "name": "Japan Amateur Baseball Association",
+        "abbrev": "JABA",
+        "score": 7,
+        "wins": 1,
+        "isWinner": true
+      },
+      "teamBottom": {
+        "id": 8002,
+        "name": "Taiwan Mountain",
+        "abbrev": "TWM",
+        "score": 5,
+        "wins": 0,
+        "isWinner": false
+      },
+      "games": [
+        {
+          "game": 1,
+          "date": "2025-12-06",
+          "away": "Taiwan Mountain",
+          "home": "Japan Amateur Baseball Association",
+          "awayScore": 5,
+          "homeScore": 7,
+          "winnerId": 8004,
+          "isTie": false,
+          "isFinal": true,
+          "venue": "Chengcing Lake Baseball Stadium"
+        }
+      ]
+    }
+  },
+  "2026": {
+    "year": 2026,
+    "era": "awbl_semifinals",
+    "isStarted": false,
+    "isComplete": false,
+    "championship": {
+      "id": "awbl-champ",
+      "name": "AWBL Championship",
+      "format": "Single Game",
+      "isStarted": false,
+      "isComplete": false
+    },
+    "thirdPlace": {
+      "id": "awbl-third",
+      "name": "3rd Place Game",
+      "format": "Single Game",
+      "isStarted": false,
+      "isComplete": false
+    },
+    "semifinal1": {
+      "id": "awbl-semi1",
+      "name": "Semifinal 1",
+      "format": "Single Game",
+      "isStarted": false,
+      "isComplete": false
+    },
+    "semifinal2": {
+      "id": "awbl-semi2",
+      "name": "Semifinal 2",
+      "format": "Single Game",
+      "isStarted": false,
+      "isComplete": false
     }
   }
 }

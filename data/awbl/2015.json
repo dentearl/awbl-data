@@ -1,0 +1,1838 @@
+[
+  {
+    "gamePk": "2015112800001",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-28T12:04:00+08:00",
+    "officialDate": "2015-11-28",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015112800002",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-28T18:05:00+08:00",
+    "officialDate": "2015-11-28",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015112900003",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-29T12:02:00+08:00",
+    "officialDate": "2015-11-29",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015112900004",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-29T18:01:00+08:00",
+    "officialDate": "2015-11-29",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015113000005",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-30T12:02:00+08:00",
+    "officialDate": "2015-11-30",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015113000006",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-11-30T18:01:00+08:00",
+    "officialDate": "2015-11-30",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 24,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120100007",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-01T12:01:00+08:00",
+    "officialDate": "2015-12-01",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120100008",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-01T18:00:00+08:00",
+    "officialDate": "2015-12-01",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120200009",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-02T12:00:00+08:00",
+    "officialDate": "2015-12-02",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120200010",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-02T18:01:00+08:00",
+    "officialDate": "2015-12-02",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120300011",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-03T12:00:00+08:00",
+    "officialDate": "2015-12-03",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 14,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120300012",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-03T18:00:00+08:00",
+    "officialDate": "2015-12-03",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120400013",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-04T12:00:00+08:00",
+    "officialDate": "2015-12-04",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015120400014",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-04T18:01:00+08:00",
+    "officialDate": "2015-12-04",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120500015",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-05T12:03:00+08:00",
+    "officialDate": "2015-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120500016",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-05T18:06:00+08:00",
+    "officialDate": "2015-12-05",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 13,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120600017",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-06T12:03:00+08:00",
+    "officialDate": "2015-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120600018",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-06T18:06:00+08:00",
+    "officialDate": "2015-12-06",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120700019",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-07T12:04:00+08:00",
+    "officialDate": "2015-12-07",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120700020",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-07T18:05:00+08:00",
+    "officialDate": "2015-12-07",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120800021",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-08T12:04:00+08:00",
+    "officialDate": "2015-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120800022",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-08T18:05:00+08:00",
+    "officialDate": "2015-12-08",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015120900023",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-09T12:02:00+08:00",
+    "officialDate": "2015-12-09",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 15,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 12,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015120900024",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-09T18:10:00+08:00",
+    "officialDate": "2015-12-09",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121000025",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-10T12:00:00+08:00",
+    "officialDate": "2015-12-10",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121000026",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-10T18:00:00+08:00",
+    "officialDate": "2015-12-10",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Postponed",
+      "abstractGameState": "P"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121100027",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-11T12:04:00+08:00",
+    "officialDate": "2015-12-11",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015121100028",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-11T18:05:00+08:00",
+    "officialDate": "2015-12-11",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121200029",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-12T12:03:00+08:00",
+    "officialDate": "2015-12-12",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 14,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 9,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121200030",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-12T18:05:00+08:00",
+    "officialDate": "2015-12-12",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      }
+    },
+    "isTie": true
+  },
+  {
+    "gamePk": "2015121300031",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-13T12:05:00+08:00",
+    "officialDate": "2015-12-13",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121300032",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-13T18:07:00+08:00",
+    "officialDate": "2015-12-13",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121400033",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-14T12:04:00+08:00",
+    "officialDate": "2015-12-14",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 10,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 11,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121400034",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-14T18:04:00+08:00",
+    "officialDate": "2015-12-14",
+    "venue": {
+      "id": 8902,
+      "name": "Douliu Baseball Stadium",
+      "nativeName": "斗六棒球場",
+      "city": "Douliu, Yunlin, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 16,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121500035",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-15T12:04:00+08:00",
+    "officialDate": "2015-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121500036",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-15T18:05:00+08:00",
+    "officialDate": "2015-12-15",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121600037",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-16T12:03:00+08:00",
+    "officialDate": "2015-12-16",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121600038",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-16T18:04:00+08:00",
+    "officialDate": "2015-12-16",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8016,
+          "name": "Team Europe",
+          "abbrev": "EUR",
+          "nativeName": "歐洲聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 5,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121700039",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-17T12:04:00+08:00",
+    "officialDate": "2015-12-17",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8011,
+          "name": "CPBL Combined",
+          "abbrev": "CPBL",
+          "nativeName": "中華職棒",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 8,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 8010,
+          "name": "Chinese Taipei Training Team",
+          "abbrev": "CT",
+          "nativeName": "中華培訓隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 14,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2015121700040",
+    "season": 2015,
+    "league": "AWBL",
+    "gameType": "R",
+    "seriesDescription": "Regular Season",
+    "gameDate": "2015-12-17T18:03:00+08:00",
+    "officialDate": "2015-12-17",
+    "venue": {
+      "id": 8901,
+      "name": "Taichung Intercontinental Baseball Stadium",
+      "nativeName": "台中洲際棒球場",
+      "city": "Taichung, Taiwan"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 8005,
+          "name": "KBO Combined",
+          "abbrev": "KBO",
+          "nativeName": "韓職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 8003,
+          "name": "NPB Combined",
+          "abbrev": "NPB",
+          "nativeName": "日職聯隊",
+          "league": "AWBL",
+          "division": "AWBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  }
+]
