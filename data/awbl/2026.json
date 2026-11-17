@@ -380,8 +380,8 @@
       "city": "Chiayi, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -393,7 +393,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 6,
+        "isWinner": true
       },
       "home": {
         "team": {
@@ -404,6 +405,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 4,
         "isWinner": false
       }
     },
@@ -424,8 +426,8 @@
       "city": "Chiayi, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -437,7 +439,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 11,
+        "isWinner": true
       },
       "home": {
         "team": {
@@ -448,6 +451,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 1,
         "isWinner": false
       }
     },
