@@ -472,8 +472,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -485,6 +485,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 7,
         "isWinner": false
       },
       "home": {
@@ -496,7 +497,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 8,
+        "isWinner": true
       }
     },
     "isTie": false
@@ -516,8 +518,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -529,6 +531,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 8,
         "isWinner": false
       },
       "home": {
@@ -540,7 +543,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 17,
+        "isWinner": true
       }
     },
     "isTie": false
