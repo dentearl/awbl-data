@@ -702,8 +702,8 @@
       "city": "Chiayi, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -715,6 +715,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 0,
         "isWinner": false
       },
       "home": {
@@ -726,7 +727,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 6,
+        "isWinner": true
       }
     },
     "isTie": false
@@ -746,8 +748,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -759,7 +761,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 4,
+        "isWinner": true
       },
       "home": {
         "team": {
@@ -770,6 +773,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 1,
         "isWinner": false
       }
     },
@@ -790,8 +794,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -803,6 +807,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 3,
         "isWinner": false
       },
       "home": {
@@ -814,7 +819,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 4,
+        "isWinner": true
       }
     },
     "isTie": false
