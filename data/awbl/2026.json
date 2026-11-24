@@ -1208,8 +1208,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -1221,6 +1221,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 0,
         "isWinner": false
       },
       "home": {
@@ -1232,7 +1233,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 3,
+        "isWinner": true
       }
     },
     "isTie": false
@@ -1243,7 +1245,7 @@
     "league": "AWBL",
     "gameType": "R",
     "seriesDescription": "Regular Season",
-    "gameDate": "2026-11-24T18:05:00+08:00",
+    "gameDate": "2026-11-24T18:04:00+08:00",
     "officialDate": "2026-11-24",
     "venue": {
       "id": 8905,
@@ -1252,8 +1254,8 @@
       "city": "Tainan, Taiwan"
     },
     "status": {
-      "detailedState": "Scheduled",
-      "abstractGameState": "P"
+      "detailedState": "Final",
+      "abstractGameState": "F"
     },
     "teams": {
       "away": {
@@ -1265,6 +1267,7 @@
           "league": "AWBL",
           "division": "AWBL"
         },
+        "score": 7,
         "isWinner": false
       },
       "home": {
@@ -1276,7 +1279,8 @@
           "league": "AWBL",
           "division": "AWBL"
         },
-        "isWinner": false
+        "score": 11,
+        "isWinner": true
       }
     },
     "isTie": false
